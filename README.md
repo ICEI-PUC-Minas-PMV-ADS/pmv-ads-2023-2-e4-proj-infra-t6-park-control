@@ -1,27 +1,22 @@
-# TÍTULO DO PROJETO
+# Park Control
+`Análise e Desenvolvimento de Sistemas`
 
-`CURSO`
+`Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída`
 
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Park Control tem o objetivo de criar um sistema de gerenciamento de estacionamento, onde a aplicação funcionará como uma catraca, registrando a entrada e saída dos veículos, estado atual do veículo, histórico de entradas e saídas e tempo estacionado.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ian Amaral Barbosa Moreira
+* Leonardo Xavier
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Aplicação em desenvolviemento.
 
 # Documentação
 
