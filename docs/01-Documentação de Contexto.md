@@ -1,46 +1,32 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Nos últimos anos, um problema cada vez mais comum tem se destacado nas grandes cidades ao redor do mundo: a dificuldade de encontrar vagas de estacionamento em centros urbanos. À medida que as cidades crescem e a população urbana aumenta, essa questão torna-se não apenas uma fonte de frustração para os motoristas, mas também um desafio significativo para o planejamento urbano e a mobilidade sustentável.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Uma das principais razões por trás dessa dificuldade é a disparidade entre a oferta de espaços de estacionamento e a demanda crescente por eles. A concentração de atividades comerciais, de lazer e de trabalho nos centros urbanos intensifica a competição pelo espaço disponível para estacionamento. Medidas têm sido adotadas por algumas cidades para lidar com esse desafio. Planos de mobilidade urbana que promovem alternativas ao uso do carro particular, como transporte público eficiente, ciclovias e compartilhamento de veículos, são importantes passos na direção certa. Além disso, o uso da tecnologia, como aplicativos que indicam a disponibilidade de vagas de estacionamento em tempo real, pode otimizar a busca por estacionamento e reduzir o congestionamento nas ruas. Aplicações como ParkMobile, SpotHero, ParkWhiz, Waze e Smart Parking Systems auxiliam nessa procura por vaga, porém, funcionam apenas para um determinado estabelecimento, não sendo integrado a outros estacionamentos que utilizam o mesmo sistema. A exceção é o Waze, mas este depende do motorista querer regitrar a disponibilidade ou não da vaga.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Objetivo geral: Gerenciar vagas de estacionamento
+> Objetivos específicos: 
+1. Gestão de vagas disponíveis;
+2. Gestão do carro estacionado, incluindo tempo estacionado e histórico de entradas e saídas;
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+'Otimização do Uso de Espaço'
+Uma aplicação de gestão de estacionamentos poderá oferecer uma visão em tempo real da disponibilidade de vagas em diferentes áreas da cidade. Isso permitirá que os motoristas identifiquem rapidamente áreas onde há vagas livres, reduzindo a necessidade de dar voltas desnecessárias em busca de estacionamento e, consequentemente, diminuindo o congestionamento viário.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+'Redução do Tempo de Procura'
+A busca por vagas de estacionamento é uma das principais causas de congestionamento e estresse nas cidades. Uma aplicação que forneça informações em tempo real sobre vagas disponíveis permitirá que os motoristas encontrem vagas mais rapidamente, economizando tempo e reduzindo a poluição causada por veículos em marcha lenta.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+'Melhoria na Experiência do Motorista'
+Encontrar uma vaga de estacionamento muitas vezes envolve incerteza e ansiedade. Com uma aplicação que ofereça informações precisas sobre disponibilidade, os motoristas poderão planejar sua rota com mais confiança, melhorando a experiência de dirigir na cidade.
+
+'Melhoria na Utilização de Recursos'
+Uma aplicação de gestão integrada de estacionamentos também pode ser usada para otimizar a utilização de espaços de estacionamento existentes. Por meio de análises de dados, as autoridades municipais podem identificar padrões de ocupação e tomar decisões informadas sobre a expansão ou realocação de estacionamentos.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público da aplicação será os motoristas que necessitam dirigir aos grandes centros urbanos, locais de difícil acesso a vagas de estacionamento. O público-alvo é aquele que possui um smartphone e acesso a web para avaliar a disponibilidade de vagas nos estacionamentos, assim como efetuar o registro de entrada e saída por meio do smartphone para atualização da aplicação. 
