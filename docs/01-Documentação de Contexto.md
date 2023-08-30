@@ -8,23 +8,23 @@ Uma das principais razões por trás dessa dificuldade é a disparidade entre a 
 
 ## Objetivos
 
-- Objetivo geral: Gerenciar vagas de estacionamento
+- Objetivo geral: Gerenciar vagas de estacionamento<br><br>
 - Objetivos específicos: 
 1. Gestão de vagas disponíveis;
 2. Gestão do carro estacionado, incluindo tempo estacionado e histórico de entradas e saídas;
 
 ## Justificativa
 
-`Otimização do Uso de Espaço`
+`Otimização do Uso de Espaço`<br>
 Uma aplicação de gestão de estacionamentos poderá oferecer uma visão em tempo real da disponibilidade de vagas em diferentes áreas da cidade. Isso permitirá que os motoristas identifiquem rapidamente áreas onde há vagas livres, reduzindo a necessidade de dar voltas desnecessárias em busca de estacionamento e, consequentemente, diminuindo o congestionamento viário.
 
-`Redução do Tempo de Procura`
+`Redução do Tempo de Procura`<br>
 A busca por vagas de estacionamento é uma das principais causas de congestionamento e estresse nas cidades. Uma aplicação que forneça informações em tempo real sobre vagas disponíveis permitirá que os motoristas encontrem vagas mais rapidamente, economizando tempo e reduzindo a poluição causada por veículos em marcha lenta.
 
-`Melhoria na Experiência do Motorista`
+`Melhoria na Experiência do Motorista`<br>
 Encontrar uma vaga de estacionamento muitas vezes envolve incerteza e ansiedade. Com uma aplicação que ofereça informações precisas sobre disponibilidade, os motoristas poderão planejar sua rota com mais confiança, melhorando a experiência de dirigir na cidade.
 
-`Melhoria na Utilização de Recursos`
+`Melhoria na Utilização de Recursos`<br>
 Uma aplicação de gestão integrada de estacionamentos também pode ser usada para otimizar a utilização de espaços de estacionamento existentes. Por meio de análises de dados, as autoridades municipais podem identificar padrões de ocupação e tomar decisões informadas sobre a expansão ou realocação de estacionamentos.
 
 ## Público-Alvo
