@@ -22,11 +22,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Os aplicativos de gestão de estacionamento existentes, mesmo que da mesma empresa, não comunicam as informações de número de vagas existentes entre as diferentes localizações. A prioridade desses aplicativos são as reservas antecipadas, controle de tempo estacionado e métodos de pagamento digital. Dessa forma, o condutor de veículo que não efetuou reserva antecipada e necessita de vaga de estacionamento em locais de baixa disponibilidade precisa circular mais a procura desses estacionamentos com vagas livres, muitas vezes sem a oportunidade de comparar preços. Assim, o tráfego fica carregado por mais tempo, as pessoas tendem a ter a necessidade de sair mais cedo de suas casas e os custos com transporte tendem a se elevar. Além disso, por receio de as vagas estarem preenchidas, os estacionamentos localizados nas áreas de maior movimento ficam com vagas ociosas e outros ficam com superlotação.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A aplicação proposta é um sistema de gerenciamento de estacionamento que controla a entrada e saída dos veículos, tempo de estacionamento e histórico de utilização. Além dessas funcionalidades que já existem nos aplicativos do mercado, esse sistema apontaria ao condutor onde existem vagas disponíveis, de maneira que o motorista possa gastar menos tempo procurando vagas de estacionamento.
 
 ### Processo 1 – NOME DO PROCESSO
 
