@@ -5,25 +5,18 @@
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-park-control/assets/103225086/8ba47512-f4c9-4264-a89f-c49fc7f8baf9)
 ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-park-control/assets/103225086/d3847f5d-7c81-4e15-adcf-309db96eff24)
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-park-control/assets/103225086/cff4f849-5044-4ec3-ae75-d30c48b9af9b)
-
+![caique](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-park-control/assets/103225086/e6b4db71-6644-4567-9bfa-ab40e08d33da)
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Ricardo             | Circular menos com o carro a procura de vagas de estacionamento | Economizar combustível  |
+|Alice               | Facilitar o transporte dos colaboradores da empresa | Reduzir os atrasos dos colaboradores |
+|Helena              | Encotrar vaga de carro mais rapidamente           | Poder sair de casa mais tarde e passar mais tempo com a família  |
+|Caique              | Encontrar estacionamentos próximo aos locais que frequenta |Facilitar encontro com amigos e ir a Biblioteca Nacional |
 
 ## Modelagem do Processo de Negócio 
 
