@@ -3,7 +3,7 @@
 
 `Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída`
 
-O projeto Park Control tem o objetivo de criar um sistema de gerenciamento de estacionamento, onde a aplicação funcionará como uma catraca, registrando a entrada e saída dos veículos, estado atual do veículo, histórico de entradas e saídas e tempo estacionado.
+O projeto Park Control tem o objetivo de criar um sistema de gerenciamento de estacionamentos, onde a aplicação vai estar nas portarias do estacionamento registrando a entrada e saída dos veículos e manterá o registro dessas informações em um servidor, além de disponibilizar a mesma via aplicativo móvel para os clientes que deixarem os seus veículos estacionados.
 
 ## Integrantes
 
@@ -16,7 +16,7 @@ O projeto Park Control tem o objetivo de criar um sistema de gerenciamento de es
 
 ## Instruções de utilização
 
-Aplicação em desenvolviemento.
+Aplicação em desenvolvimento, as instruções serão disponibilizadas assim que possível.
 
 # Documentação
 
