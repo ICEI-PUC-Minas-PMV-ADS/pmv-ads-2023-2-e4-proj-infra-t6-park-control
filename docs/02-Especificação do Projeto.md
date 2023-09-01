@@ -13,20 +13,20 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Ricardo             | Circular menos com o carro a procura de vagas de estacionamento | Economizar combustível  |
-|Alice               | Facilitar o transporte dos colaboradores da empresa | Reduzir os atrasos dos colaboradores |
-|Helena              | Encotrar vaga de carro mais rapidamente           | Poder sair de casa mais tarde e passar mais tempo com a família  |
-|Caique              | Encontrar estacionamentos próximo aos locais que frequenta |Facilitar encontro com amigos e ir a Biblioteca Nacional |
+|Ricardo             | Controlar o período de permanência dos veículos no meu estacionamento | Cobrar os clientes de forma prática e correta  |
+|Alice               | Ter acesso a quanto tempo meu carro está estacionado | Saber quanto vou pagar pelo tempo estacionado |
+|Helena              | Saber quanto tempo cada carro está estacionado no estacionamento da minha loja | Garantir que não utilizem o estacionamento de forma indevida  |
+|Caique              | Controlar a entrada e saída dos veículos no estacionamento do prédio do qual sou síndico | Garantir a segurança dos condôminos |
 
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Os aplicativos de gestão de estacionamento existentes, mesmo que da mesma empresa, não comunicam as informações de número de vagas existentes entre as diferentes localizações. A prioridade desses aplicativos são as reservas antecipadas, controle de tempo estacionado e métodos de pagamento digital. Dessa forma, o condutor de veículo que não efetuou reserva antecipada e necessita de vaga de estacionamento em locais de baixa disponibilidade precisa circular mais a procura desses estacionamentos com vagas livres, muitas vezes sem a oportunidade de comparar preços. Assim, o tráfego fica carregado por mais tempo, as pessoas tendem a ter a necessidade de sair mais cedo de suas casas e os custos com transporte tendem a se elevar. Além disso, por receio de as vagas estarem preenchidas, os estacionamentos localizados nas áreas de maior movimento ficam com vagas ociosas e outros ficam com superlotação.
+Atualmente muitos estabelecimentos não possuem um sistema de gestão do estacionamento, aqueles que possuem muitas vezes contam com ferramentas arcaicas baseadas em papel e caneta, gerando diversas vulnerabilidades e um controle falho do fluxo de veículos.
 
 ### Descrição Geral da Proposta
 
-A aplicação proposta é um sistema de gerenciamento de estacionamento que controla a entrada e saída dos veículos, tempo de estacionamento e histórico de utilização. Além dessas funcionalidades que já existem nos aplicativos do mercado, esse sistema apontaria ao condutor onde existem vagas disponíveis, de maneira que o motorista possa gastar menos tempo procurando vagas de estacionamento.
+A aplicação proposta é um sistema informatizado de gerenciamento de estacionamento que controla a entrada e saída dos veículos, tempo de permanência, custo e histórico de utilização.
 
 ### Processo 1 – NOME DO PROCESSO
 
